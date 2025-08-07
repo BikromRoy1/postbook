@@ -42,3 +42,10 @@ input[type='password'] {
   margin: 0 auto;
   cursor: pointer;
 }
+.error {
+  color: red;
+  text-align: center;
+}
+.hidden {
+  display: none;
+}
